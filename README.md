@@ -3,10 +3,15 @@ PROFESSIONAL SUMMARY
 ABOUT ME:
 
 I am JACOB, Wasiu Abayomi, a passionate and result-driven Data Analyst, Statistician, and Research & Operations Specialist with a strong academic foundation in Statistics and practical experience across business operations, tax auditing, customer management, restaurant administration, IT support, and data-driven decision-making.
+
 With a Second-Class Upper Division in Statistics from Ladoke Akintola University of Technology (LAUTECH), I specialize in transforming raw data into meaningful insights that support organizational growth and informed decision-making.
+
 My expertise spans data collection, statistical analysis, data interpretation, reporting, forecasting, dashboard development, and business intelligence using tools such as Excel, SQL, Google Sheets, and R Programming.
+
 Currently, I am actively involved in statistical research focused on the economic effects of birth and fertility rates in West Africa, where I apply statistical models and analytical techniques to uncover patterns, generate insights, and provide data-driven recommendations beneficial to policymakers and governments.
+
 Beyond analytics, I am passionate about mentorship and capacity building, having trained aspiring data analysts and professionals in Microsoft Office tools and analytical techniques. My diverse experience in business management, auditing, sales operations, and customer service gives me a unique ability to understand business problems and provide practical analytical solutions.
+
 I am committed to continuous learning, operational excellence, and leveraging data to solve real-world challenges across government, private, and research sectors.
 ________________________________________
 
