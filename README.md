@@ -17,7 +17,7 @@ ________________________________________
 
 ### WORKING EXPERIENCE
 
-# Tax Haven Consulting Limited — Tax Audit Practitioner			                                                                                                         March 2025 – Present
+# Tax Haven Consulting Limited — Tax Audit Practitioner			                                                                                                         March 2026 – Present
 
 Key Responsibilities
 •	Analyzed financial records and tax-related documents 
